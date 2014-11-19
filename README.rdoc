@@ -1,11 +1,13 @@
-STEP ONE: MVP 
+Working on: 
+
+##STEP ONE: MVP 
 --[ ] Link to Github Profile 
 --[ ] Link to Facebook Profile 
 - [ ] Link to LinkedIn
 - [ ] Users can send email to katharinechen.ny@gmail.com from the Contact Page 
 
-STEP TWO: 
+##STEP TWO: 
 
-SET THREE: 
+##SET THREE: 
 
-SET FOUR: 
+##SET FOUR: 
