@@ -1,3 +1,23 @@
+##Installation
+Download all of the necessary Gems.
+
+    bundle
+    bundle update
+
+Setup the appropriate databases by entering the following in your terminal:
+
+    rake db:create
+    rake db:migrate
+    rake db:seed
+
+To view the site, enter localhost:3000 in your browser:
+
+    localhost:3000
+
+##License
+MIT
+
+
 Working on: 
 
 ##STEP ONE: MVP 
@@ -7,7 +27,15 @@ Working on:
 - [ ] Users can send email to katharinechen.ny@gmail.com from the Contact Page 
 
 ##STEP TWO: 
+- [ ] Add basic less 
 
 ##SET THREE: 
 
 ##SET FOUR: 
+
+What are the pages I want? 
+- [ ] Home Page
+- [ ] Events  
+- [ ] Projects  
+- [ ] Blog
+- [ ] Contact  
